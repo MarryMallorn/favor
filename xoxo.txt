@@ -12,3 +12,4 @@ xchg ax, bx
 loop m1
 mov ah, 4ch
 int 21h
+End Start
