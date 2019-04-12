@@ -4,3 +4,4 @@
 .code
 Start:
 mov ax, 1
+mov bx, 1
