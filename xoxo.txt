@@ -3,3 +3,4 @@
 .data
 .code
 Start:
+mov ax, 1
