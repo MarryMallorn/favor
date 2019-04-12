@@ -8,3 +8,4 @@ mov bx, 1
 mov cx, 10
 m1:
 add ax, bx
+xchg ax, bx
