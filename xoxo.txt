@@ -7,3 +7,4 @@ mov ax, 1
 mov bx, 1
 mov cx, 10
 m1:
+add ax, bx
