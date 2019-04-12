@@ -10,3 +10,4 @@ m1:
 add ax, bx
 xchg ax, bx
 loop m1
+mov ah, 4ch
