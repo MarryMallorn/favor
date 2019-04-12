@@ -2,3 +2,4 @@
 .stack 100h
 .data
 .code
+Start:
